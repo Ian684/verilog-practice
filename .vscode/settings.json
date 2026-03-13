@@ -1,0 +1,4 @@
+{
+    "verilog.linting.iverilog.arguments": "-i",
+    "verilog.linting.linter": "iverilog"
+}
